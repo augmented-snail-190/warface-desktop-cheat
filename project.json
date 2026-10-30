@@ -1,0 +1,22 @@
+{
+  "name": "warface-desktop-toolkit",
+  "displayName": "Warface Desktop Toolkit",
+  "programType": "desktop-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Display options",
+    "Profile groups",
+    "Shortcut reference"
+  ],
+  "topics": [
+    "warface-desktop-toolkit",
+    "warface-tools",
+    "warface-menu",
+    "warface-settings",
+    "warface-configs",
+    "warface-display-options",
+    "warface-profile-groups"
+  ]
+}
