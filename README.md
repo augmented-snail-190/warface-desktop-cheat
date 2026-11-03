@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 Warface Desktop Toolkit · Program documentation and download information.
-                                                                                                    
